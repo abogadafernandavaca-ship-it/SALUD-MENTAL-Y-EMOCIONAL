@@ -1,0 +1,7 @@
+{
+  "name": "Brigadas de Salud Mental y Emocional",
+  "description": "Una plataforma interactiva para la gestión y visualización del plan piloto de salud mental en la U.E. Técnica Experimental Mitad del Mundo, integrando inteligencia artificial para asesoramiento protocolario.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
